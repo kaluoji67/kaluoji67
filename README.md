@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kalu Oji</h1>
 <h3 align="center">Software Engineer | Mobile App Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/chipp/collections/572323-coding-gifs"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
 - 🔭 I’m currently working on **Heart Development VR Simulator**
 
 - 🌱 I’m currently learning **React Native**
